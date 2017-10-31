@@ -1,8 +1,8 @@
 # Supervised_learning-Scikit-learn
 
 
-SUPERVISED MACHINE LEARNING MODELS \t
-Linear regression, \t
+SUPERVISED MACHINE LEARNING MODELS 
+Linear regression,  
 Logistic regression, 
 Naive Bayes, 
 Linear discriminant analysis, 
